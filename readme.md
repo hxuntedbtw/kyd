@@ -1,4 +1,4 @@
-[![kyd](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F7E713&vCenter=true&width=806&lines=%F0%9F%98%B8kyd%F0%9F%8E%AC)]
+![kyd](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F7E713&vCenter=true&width=806&lines=%F0%9F%98%B8kyd%F0%9F%8E%AC)
 
 ---
 simple youtube mp3/mp4 downloader
